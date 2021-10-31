@@ -1,7 +1,5 @@
 # 数值代数实验报告（Lab #1）
 
-PB19000236 罗备文
-
 ## 问题 1
 
 > Write and execute a program to compute
